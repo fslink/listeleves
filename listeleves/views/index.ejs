@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <h1><%= title %></h1>
+    <p>Bienvenu dans la <%= title %></p>
+	<ul>
+  	  	<% listeE.forEach(function(eleve, index){ %>
+  	    	<li id="<%= index %>" onclick="
+  	    	location.replace('http://' + location.host + '/profil?id=' + this.id)"><%= eleve.nom %> <%= eleve.prenom %>
+  	    	</li>
+  	  	<% }); %>
+  	</ul>
+  	</body>
+</html>

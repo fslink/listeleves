@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= Title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <h1><%= Title %></h1>
+    <p>Bienvenu dans <%= Title %></p><br>
+    <% for(var value in Eleve){ %>
+      <p><strong><%= value %></strong> : <%= Eleve[value] %></p>
+    <% } %>
+    <a href="/">Retour</a>
+  	</body>
+</html>
