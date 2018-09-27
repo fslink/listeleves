@@ -1,5 +1,4 @@
-[
- {
+{
    "nom": "Chehaibou",
    "prenom": "Sofiann",
    "age": 30,
@@ -12,7 +11,7 @@
    "before_ifa": "Cesi.Exia",
    "why_ifa": "Pour les PC",
    "contact_mail": "schehaibou@gmail.com"
- },
+ }
  {
    "nom": "Godard",
    "prenom": "Jason",
@@ -26,7 +25,7 @@
    "before_ifa": "BTS aménagmt paysager, formation 3mois devweb webdesign",
    "why_ifa": "Employeur, formation",
    "contact_mail": "godard.jason@yahoo.fr"
- },
+ }
  {
    "nom": "MARCHAL",
    "prenom": "Jérémy",
@@ -40,7 +39,7 @@
    "before_ifa": "bac STI2D",
    "why_ifa": "par passion en info , rapidité, embauche, alternance",
    "contact_mail": "jeremymarchal90@gmail.com"
- },
+ }
  {
    "nom": "ROSSIGNOL",
    "prenom": "Sophie",
@@ -54,7 +53,7 @@
    "before_ifa": "webforce3",
    "why_ifa": "Pour integrer une entreprise directement après",
    "contact_mail": "sophie-rossignol@sfr.fr"
- },
+ }
  {
    "nom": "Leonard",
    "prenom": "Arthur",
@@ -68,7 +67,7 @@
    "before_ifa": "DUT R&T ",
    "why_ifa": "Formation alternance, 6mois",
    "contact_mail": "arthurleonard.pro@gmail.com"
- },
+ }
  {
    "nom": "Barthélémy",
    "prenom": "Yann",
@@ -82,7 +81,7 @@
    "before_ifa": "graphiste, illustrateur, peintre",
    "why_ifa": "par nécessité",
    "contact_mail": "telethrella@yahoo.fr"
- },
+ }
  {
    "nom": "ferro",
    "prenom": "gael",
@@ -96,7 +95,7 @@
    "before_ifa": "formation réseau 2016, formation développement logiciel 2009",
    "why_ifa": "pour mêler apprentissage & expérience",
    "contact_mail": "ferro.gael@club-internet.fr"
- },
+ }
  {
    "nom": "Ouzagou",
    "prenom": "Sdik",
@@ -110,7 +109,7 @@
    "before_ifa": "commerciale",
    "why_ifa": "Pour acquérir des base informatique afin de mieux me familiariser avec le web. \n",
    "contact_mail": "sadek011@hotmail.fr"
- },
+ }
  {
    "nom": "carvalho",
    "prenom": "Brian",
@@ -124,7 +123,7 @@
    "before_ifa": "CNAM de Metz( programmation de site web)",
    "why_ifa": "car elle peux m’apporter de nouvelles competences en plus de ce que je connais déjà",
    "contact_mail": "carvalho.brian.cb@gmail.com"
- },
+ }
  {
    "nom": "DIDIER",
    "prenom": "Jessica",
@@ -138,7 +137,7 @@
    "before_ifa": "Pause de 4 ans après démission dans société e-commerce",
    "why_ifa": "Remise à niveau",
    "contact_mail": "j3d1d13r@gmail.com"
- },
+ }
  {
    "nom": "Ribeiro Fernandes",
    "prenom": "Lisa",
@@ -152,7 +151,7 @@
    "before_ifa": "Licence Information et Communication (Nancy) – assistante de gestion Mirabaud (Luxembourg puis Paris)",
    "why_ifa": "Je cherchais à intégrer école de web design, car approche de l’art m’intéressait particulièrement, interessée depuis années fac par univers du code, surtout front-end ",
    "contact_mail": "lisa.ribeiro.fernandes@gmail.com"
- },
+ }
  {
    "nom": "Squellati",
    "prenom": "Marie-Noëlle",
@@ -166,7 +165,7 @@
    "before_ifa": "+ 20 vie active domaine infographie\n2016 : formation en dev",
    "why_ifa": "Améliorer + approfondir mes compétences",
    "contact_mail": "marienoelle.squellati@gmail.com "
- },
+ }
  {
    "nom": "Bouchafra",
    "prenom": "Houda",
@@ -181,4 +180,3 @@
    "why_ifa": "approfondir mes connaissances et avoir une premiere experience ",
    "contact_mail": "houdaelfakiri@gmail,com"
  }
-]
