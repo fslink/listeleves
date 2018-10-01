@@ -32,7 +32,9 @@ router.get('/', function(req, res, next){
 })
 
 .get('/eleve/:id', function(req, res, next){
-
+	res.type('html')
+	res.set(200)
+	res.redirect('/client/profil.html')
 })
 
 module.exports = router
