@@ -2,6 +2,7 @@ var express = require('express')
 var router = express.Router()
 var mongoose = require('../models/connection')
 var Liste = require('../models/Liste')
+var path = require('path')
 
 /* GET home page. */
 router.get('/', function(req, res, next){
@@ -28,13 +29,13 @@ router.get('/', function(req, res, next){
 .get('/eleves', function(req, res, next){
 	res.type('html')
 	res.set(200)
-	res.redirect('/client/liste.html')
+	res.sendFile(path.join(__dirname + '/../tpJS/liste.html'))
 })
 
 .get('/eleve/:id', function(req, res, next){
 	res.type('html')
 	res.set(200)
-	res.redirect('/client/profil.html')
+	res.sendFile(path.join(__dirname + '/../tpJS/profil.html'))
 })
 
 module.exports = router

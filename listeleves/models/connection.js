@@ -1,5 +1,5 @@
 var mongoose = require('mongoose')
-mongoose.connect('mongodb://localhost/ifa2018')
+mongoose.connect('mongodb://localhost/ifa2018', {useNewUrlParser : true})
 
 var db = mongoose.connection
 db.on('error', console.error.bind(console, 'connection error:'))
