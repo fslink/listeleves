@@ -1,0 +1,5 @@
+var listeFruits = ['pomme', 'kiwi', 'poire', 'noisette'];
+var listeAnimaux = [{"nom" : "lola", "type" : "chien", "age" : 2, "cri" : "wouf"}, 
+	{"nom" : "peppette", "type" : "chat", "age" : 8, "cri" : "miaou"}];
+
+//"faire_du_bruit" : function(){console.log(this.cri)}

@@ -1,0 +1,16 @@
+#1
+0. créer la page
+1. Récupérer les données
+2. Organiser/Manipuler les données
+3. Pour chaque élève créer sa miniature
+4. Ajouter la miniature à la liste
+5. Gérer le clic
+
+#2
+1. Récupérer l'élève séléctionner
+2. Positionner les infos dans la page
+
+//Git
+lleoooell / ifaS3MEMOTP1
+
+leo@greenberry.io
